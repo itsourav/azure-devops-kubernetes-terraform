@@ -19,7 +19,6 @@ jobs:
     echo See https://aka.ms/yaml
     echo Please put more information.
     displayName: 'Run a multi-line script'
-
 - job: Job2
   steps:
   - script: echo Job2
